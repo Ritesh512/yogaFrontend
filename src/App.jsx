@@ -6,9 +6,9 @@ import Signup from "./components/Signup";
 import Payment from "./components/Payment";
 import PageNotFound from "./components/PageNotFound";
 import Navbar from "./components/Navbar";
-import UserBatch from "./components/userBatch";
+import UserBatch from "./components/UserBatch";
 import Private from "./components/Private";
-import { ToastContainer, toast } from "react-toastify";
+import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
 function App() {

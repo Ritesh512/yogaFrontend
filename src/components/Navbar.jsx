@@ -3,7 +3,6 @@ import { Link, useNavigate } from "react-router-dom";
 import { FaUserCircle } from "react-icons/fa";
 
 const Navbar = () => {
-  const [user, setuser] = useState(true);
   const auth = localStorage.getItem("user");
   const navigate = useNavigate();
 
