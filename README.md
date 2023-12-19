@@ -14,6 +14,7 @@ participants can choose any batch in a month and can move to any other batch nex
 month. I.e. participants can shift from one batch to another in different months but in the
 same month they need to be in the same batch.
 ```
+## <a href="https://friendly-otter-bb2f96.netlify.app/">Click here for Demo </a>
 
 # Features
 ```
